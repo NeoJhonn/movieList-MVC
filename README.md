@@ -17,7 +17,7 @@ Aplicação Web que desenvolvi para disciplia de Arquitetura de Software +Devs2B
 <br>
 
 <p align="center">
-   <img alt="movie-list-mvc" src="https://github.com/NeoJhonn/movieList-MVC/blob/main/.github/screenShot.png"> 
+   <img alt="movie-list-mvc" src="https://github.com/NeoJhonn/movieList-MVC/blob/main/.github/screenShot.png"
   width="70%">
 </p>
 
