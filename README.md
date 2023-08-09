@@ -17,8 +17,8 @@ Aplicação Web que desenvolvi para disciplia de Arquitetura de Software +Devs2B
 <br>
 
 <p align="center">
-   <img alt="movie-list-mvc" src="/.github/screenshot.png"> 
-  width="100%">
+   <img alt="movie-list-mvc" src=".github/screenShot.png"> 
+  width="70%">
 </p>
 
 ## 🚀 Tecnologias
