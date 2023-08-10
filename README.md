@@ -1,7 +1,7 @@
 <h1 align="center"> Movie List MVC </h1>
 
 <p align="center">
-Aplicação Web que desenvolvi para disciplia de Arquitetura de Software +Devs2Blu 2023.
+Aplicação Web que desenvolvi para disciplina de Arquitetura de Software +Devs2Blu 2023.
 </p>
 
 <p align="center">
